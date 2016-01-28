@@ -1,41 +1,41 @@
-analytics:
-  twitter: null
-  google: ' UA-72920433-1'
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Aaron Mahoney
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.26387
-title: Aaron Mahoney
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.625
+  saturation: 0.5676692
   brandStrength: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0.5655209
   brandColors:
     - '#040000'
     - '#fcfcfc'
     - '#5b1430'
     - '#d7a3c1'
     - '#983c69'
-  lightness: 0
-purpose: []
+  rhythmicContrast: 0.5558539
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: ' UA-72920433-1'
+  facebook: null
 favicon: null
 name: Aaron Mahoney
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.5920453267171979
+layout_spectrum: 0.26387
