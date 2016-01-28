@@ -1,41 +1,41 @@
-name: Aaron Mahoney
-favicon: null
-layout_spectrum: 0.26387
-typography_spectrum: 0.5920453267171979
+analytics:
+  twitter: null
+  google: ' UA-72920433-1'
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.26387
 title: Aaron Mahoney
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: ' UA-72920433-1'
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.625
+  brandStrength: 0.5
+  rhythmicContrast: 0.25
   brandColors:
     - '#040000'
     - '#fcfcfc'
     - '#5b1430'
     - '#d7a3c1'
     - '#983c69'
-  brandStrength: 0.5
   lightness: 0
-  saturation: 0.625
-  rhythmicContrast: 0.25
 purpose: []
+favicon: null
+name: Aaron Mahoney
+typography_spectrum: 0.5920453267171979
