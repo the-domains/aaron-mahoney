@@ -2,30 +2,16 @@
     <channel>
         <title><![CDATA[Aaron Mahoney]]></title>
         <description><![CDATA[Aaron Mahoney]]></description>
-        <link>http://aaronmahoney.com/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 11:13:02 GMT</lastBuildDate>
-        <atom:link href="http://aaronmahoney.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 03:56:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd25049b-9f1a-4134-b8f5-abfb13ddae18.jpg">]]></description>
-            <link>http://aaronmahoney.com/1fa8bc58-9176-4dfb-98ba-178480505645/index.html</link>
-            <guid isPermaLink="false">1fa8bc58-9176-4dfb-98ba-178480505645</guid>
-            <pubDate>Tue, 26 Jan 2016 19:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Mahoney]]></title>
-            <description><![CDATA[<article><h1>Aaron Mahoney</h1><p>we are moving forward</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdf06b35b85736bf29f15fa4f17054af77a93169.jpg"></article>]]></description>
-            <link>http://aaronmahoney.com/aaron-mahoney/index.html</link>
-            <guid isPermaLink="false">473a588d-5fde-4789-949d-187a9057a643</guid>
-            <pubDate>Wed, 27 Jan 2016 10:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ojwfouhweofuhw</p>]]></description>
-            <link>http://aaronmahoney.com/e396b586-92e7-4b01-b874-7c200c5b7110/index.html</link>
-            <guid isPermaLink="false">e396b586-92e7-4b01-b874-7c200c5b7110</guid>
-            <pubDate>Wed, 27 Jan 2016 00:39:14 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/715fd3d0-37e3-4bc8-990b-c9f327cccd9e.jpg">]]></description>
+            <link>undefined8eda9eaa-fe2e-475e-a661-cc6b2b55d0e9/index.html</link>
+            <guid isPermaLink="false">8eda9eaa-fe2e-475e-a661-cc6b2b55d0e9</guid>
+            <pubDate>Thu, 28 Jan 2016 03:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
