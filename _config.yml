@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5676692
+  saturation: 0
   brandStrength: 0.5
-  rhythmicContrast: 0.5558539
+  lightness: 0
   brandColors:
     - '#040000'
     - '#fcfcfc'
     - '#5b1430'
     - '#d7a3c1'
     - '#983c69'
-  lightness: 0.5655209
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: ' UA-72920433-1'
   facebook: null
-favicon: null
 name: Aaron Mahoney
+favicon: null
 opengraph:
   image: null
   type: null
