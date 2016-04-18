@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
-  lightness: 0
+  lightness: 0.9976679
   brandColors:
     - '#040000'
     - '#fcfcfc'
     - '#5b1430'
     - '#d7a3c1'
     - '#983c69'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: ' UA-72920433-1'
   facebook: null
-name: Aaron Mahoney
 favicon: null
+name: Aaron Mahoney
 opengraph:
   image: null
   type: null
